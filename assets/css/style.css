@@ -43,3 +43,7 @@ body{
 .products td h3{
     text-align: center;
 }
+
+.valor{
+    color:green
+}
